@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Your Name",
+    "title": "Digital Consultant",
+    "subtitle": "Freelance professional based in Ile-de-France and Marseille region",
+    "cta_primary": "Get in touch",
+    "cta_secondary": "View services"
+  },
+  "about": {
+    "eyebrow": "About me",
+    "title": "Digital expertise at your service",
+    "content": "I am a freelance digital consultant with expertise in helping businesses transform and thrive in the digital landscape. With years of experience in the industry, I provide tailored solutions to meet your specific needs.",
+    "location": "Based in Ile-de-France and the Marseille region, I work with clients throughout France and internationally.",
+    "stats": {
+      "years": "Years Experience",
+      "clients": "Clients Served",
+      "satisfaction": "Client Satisfaction"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "How I can help your business",
+    "digital_strategy": {
+      "title": "Digital Strategy",
+      "description": "Development of comprehensive digital strategies aligned with your business objectives."
+    },
+    "project_management": {
+      "title": "Project Management",
+      "description": "End-to-end management of digital projects, ensuring timely delivery and quality results."
+    },
+    "digital_transformation": {
+      "title": "Digital Transformation",
+      "description": "Guidance and implementation of digital transformation initiatives for your organization."
+    },
+    "consulting": {
+      "title": "Digital Consulting",
+      "description": "Expert advice on digital trends, technologies, and best practices for your business."
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "What clients say",
+    "testimonial1": {
+      "content": "Working with this consultant transformed our digital approach completely. The strategic insights and implementation support were invaluable to our business growth.",
+      "author": "Marie Dupont",
+      "position": "Marketing Director, Tech Company"
+    },
+    "testimonial2": {
+      "content": "An exceptional digital consultant who delivered beyond our expectations. The project was completed on time and the results exceeded our goals.",
+      "author": "Jean Martin",
+      "position": "CEO, Retail Brand"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's work together",
+    "subtitle": "Interested in collaborating? Get in touch and let's discuss how I can help your business succeed in the digital landscape.",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Locations",
+    "locations": {
+      "paris": "Ile-de-France",
+      "marseille": "Marseille Region"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Your Name. All rights reserved.",
+    "language": "Language",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "tagline": "Freelance digital consultant helping businesses transform and thrive in the digital landscape."
+  }
+}

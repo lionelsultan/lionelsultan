@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Votre Nom",
+    "title": "Consultant Digital",
+    "subtitle": "Professionnel freelance basé en Ile-de-France et région marseillaise",
+    "cta_primary": "Me contacter",
+    "cta_secondary": "Voir mes services"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Expertise digitale à votre service",
+    "content": "Je suis un consultant digital freelance spécialisé dans l'accompagnement des entreprises pour leur transformation et leur développement dans le paysage numérique. Avec plusieurs années d'expérience dans le secteur, je propose des solutions sur mesure adaptées à vos besoins spécifiques.",
+    "location": "Basé en Ile-de-France et dans la région marseillaise, je travaille avec des clients dans toute la France et à l'international.",
+    "stats": {
+      "years": "Années d'Expérience",
+      "clients": "Clients Accompagnés",
+      "satisfaction": "Satisfaction Client"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Comment je peux aider votre entreprise",
+    "digital_strategy": {
+      "title": "Stratégie Digitale",
+      "description": "Développement de stratégies digitales complètes alignées sur vos objectifs d'entreprise."
+    },
+    "project_management": {
+      "title": "Gestion de Projet",
+      "description": "Gestion de bout en bout des projets digitaux, garantissant une livraison dans les délais et des résultats de qualité."
+    },
+    "digital_transformation": {
+      "title": "Transformation Digitale",
+      "description": "Accompagnement et mise en œuvre d'initiatives de transformation digitale pour votre organisation."
+    },
+    "consulting": {
+      "title": "Conseil Digital",
+      "description": "Conseils d'expert sur les tendances digitales, les technologies et les meilleures pratiques pour votre entreprise."
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Témoignages",
+    "title": "Ce que disent mes clients",
+    "testimonial1": {
+      "content": "Travailler avec ce consultant a complètement transformé notre approche digitale. Les conseils stratégiques et le soutien à la mise en œuvre ont été inestimables pour la croissance de notre entreprise.",
+      "author": "Marie Dupont",
+      "position": "Directrice Marketing, Entreprise Tech"
+    },
+    "testimonial2": {
+      "content": "Un consultant digital exceptionnel qui a dépassé nos attentes. Le projet a été livré dans les délais et les résultats ont dépassé nos objectifs.",
+      "author": "Jean Martin",
+      "position": "PDG, Marque de Retail"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Travaillons ensemble",
+    "subtitle": "Intéressé par une collaboration ? Prenez contact et discutons de la façon dont je peux aider votre entreprise à réussir dans le paysage numérique.",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisations",
+    "locations": {
+      "paris": "Ile-de-France",
+      "marseille": "Région Marseillaise"
+    },
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer le Message"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Votre Nom. Tous droits réservés.",
+    "language": "Langue",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "tagline": "Consultant digital freelance aidant les entreprises à se transformer et à prospérer dans le paysage numérique."
+  }
+}
